@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdc89981-45ba-44b4-80ce-493f82fedb5f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hw2-1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3825">
+              <caret line="257" column="25" selection-start-line="257" selection-start-column="25" selection-end-line="257" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hw2-2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="5" selection-end-column="49" />
+              <folding>
+                <element signature="e#229#278#0" />
+                <element signature="e#411#852#0" />
+                <element signature="e#556#852#0" />
+                <element signature="e#589#704#0" />
+                <element signature="e#731#852#0" />
+                <element signature="e#917#1116#0" />
+                <element signature="e#1163#1194#0" />
+                <element signature="e#1235#1501#0" />
+                <element signature="e#1327#1361#0" />
+                <element signature="e#1543#2329#0" />
+                <element signature="e#1612#1822#0" />
+                <element signature="e#1913#2230#0" />
+                <element signature="e#2268#2311#0" />
+                <element signature="e#2366#2903#0" />
+                <element signature="e#2783#2874#0" />
+                <element signature="e#2981#3345#0" />
+                <element signature="e#3401#4492#0" />
+                <element signature="e#3572#4492#0" />
+                <element signature="e#3608#4492#0" />
+                <element signature="e#3908#4492#0" />
+                <element signature="e#3952#4492#0" />
+                <element signature="e#4493#4563#0" />
+                <element signature="e#4685#5089#0" />
+                <element signature="e#4950#5072#0" />
+                <element signature="e#5124#5211#0" />
+                <element signature="e#5246#5361#0" />
+                <element signature="e#5400#5951#0" />
+                <element signature="e#5817#5908#0" />
+                <element signature="e#5984#6197#0" />
+                <element signature="e#6020#6180#0" />
+                <element signature="e#6228#6508#0" />
+                <element signature="e#6302#6401#0" />
+                <element signature="e#6560#6569#0" />
+                <element signature="e#6571#6641#0" />
+                <element signature="e#6860#6904#0" />
+                <element signature="e#6978#8053#0" />
+                <element signature="e#7287#7995#0" />
+                <element signature="e#7838#7908#0" />
+                <element signature="e#8055#8120#0" />
+                <element signature="e#8548#8851#0" />
+                <element signature="e#8882#10540#0" />
+                <element signature="e#8952#9039#0" />
+                <element signature="e#9078#9377#0" />
+                <element signature="e#9414#9753#0" />
+                <element signature="e#9791#10130#0" />
+                <element signature="e#10168#10507#0" />
+                <element signature="e#10569#11228#0" />
+                <element signature="e#10636#10734#0" />
+                <element signature="e#10770#10868#0" />
+                <element signature="e#10904#10993#0" />
+                <element signature="e#11030#11197#0" />
+                <element signature="e#11345#11523#0" />
+                <element signature="e#11549#11858#0" />
+                <element signature="e#11881#12218#0" />
+                <element signature="e#11888#12218#0" />
+                <element signature="e#12241#12335#0" />
+                <element signature="e#12248#12335#0" />
+                <element signature="e#12380#12563#0" />
+                <element signature="e#12590#12839#0" />
+                <element signature="e#12860#12919#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hw1-3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4170">
+              <caret line="278" column="17" selection-start-line="278" selection-start-column="17" selection-end-line="278" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hwTetris.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3255">
+              <caret line="217" column="43" selection-start-line="217" selection-start-column="43" selection-end-line="217" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hw2-3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
+              <folding>
+                <element signature="e#401#422#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/hw4-1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1289">
+              <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hw4-3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8835">
+              <caret line="667" column="22" selection-start-line="667" selection-start-column="22" selection-end-line="667" selection-end-column="22" />
+              <folding>
+                <element signature="n#!!doc" />
+                <element signature="e#18427#21549#0" />
+                <element signature="e#18461#18536#0" />
+                <element signature="e#18578#18668#0" />
+                <element signature="e#18586#18667#0" />
+                <element signature="e#18710#18916#0" />
+                <element signature="e#18738#18915#0" />
+                <element signature="e#18962#20605#0" />
+                <element signature="e#19012#19297#0" />
+                <element signature="e#19337#19620#0" />
+                <element signature="e#19661#19946#0" />
+                <element signature="e#19989#20274#0" />
+                <element signature="e#20318#20605#0" />
+                <element signature="e#20643#20819#0" />
+                <element signature="e#20674#20819#0" />
+                <element signature="e#20864#21549#0" />
+                <element signature="e#20905#21549#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hw4-2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8325">
+              <caret line="555" column="13" lean-forward="true" selection-start-line="555" selection-start-column="13" selection-end-line="555" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hw1-1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2175">
+              <caret line="145" column="21" selection-start-line="145" selection-start-column="21" selection-end-line="145" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/isnthKobieNumber.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>areLegalValues</find>
+      <find>canvas</find>
+      <find>check</find>
+      <find>data.rows</find>
+      <find>starterBoard</find>
+      <find>beforeCol</find>
+      <find>isGameOver</find>
+      <find>print</find>
+      <find>score</find>
+      <find>removeFullRows</find>
+      <find>dx</find>
+      <find>guess</find>
+      <find>rectan</find>
+      <find>i</find>
+      <find>drawGates</find>
+      <find>YES</find>
+      <find>NotGate</find>
+      <find>OrGate</find>
+      <find>AndGate</find>
+      <find>And</find>
+      <find>oval</find>
+      <find>fon</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>isLegalSudoku</replace>
+      <replace>oldCol</replace>
+      <replace>digit</replace>
+      <replace>place</replace>
+      <replace>n</replace>
+      <replace>Not</replace>
+      <replace>Or</replace>
+      <replace>And</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/hw23sudoku.py" />
+        <option value="$USER_HOME$/Downloads/shaoxuan@andrew.cmu.edu_2_hw23tetris_hw23-tetris_handin.py" />
+        <option value="$PROJECT_DIR$/src/hwTetris.py" />
+        <option value="$PROJECT_DIR$/src/isKobieNumber.py" />
+        <option value="$PROJECT_DIR$/src/isnthKobieNumber.py" />
+        <option value="$PROJECT_DIR$/src/hw21.py" />
+        <option value="$PROJECT_DIR$/src/hw4-1.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+        <option value="$PROJECT_DIR$/src/hw22.py" />
+        <option value="$PROJECT_DIR$/src/Animation template.py" />
+        <option value="$PROJECT_DIR$/src/hw4-2.py" />
+        <option value="$PROJECT_DIR$/Collections/BackTracking.py" />
+        <option value="$PROJECT_DIR$/src/playground.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+        <option value="$PROJECT_DIR$/src/hw4-3.py" />
+        <option value="$PROJECT_DIR$/src/hw5-1.py" />
+        <option value="$PROJECT_DIR$/src/testerPython.py" />
+        <option value="$PROJECT_DIR$/src/hw1-1.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="447" />
+    <option name="y" value="-12" />
+    <option name="width" value="981" />
+    <option name="height" value="552" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/15112-TP-Project/Xilliards" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ThinkPad\homework\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ThinkPad\Nutstore\.nutstore_ZmZ5dWFuZGFAb3V0bG9vay5jb20=\Nutstore\CMU Application\15112\homework\src" />
+      <recent name="C:\Users\ThinkPad\homework\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.hw2-3">
+    <configuration name="hw2-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/hw2-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hw2-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/hw2-3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hw4-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/hw4-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hw4-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/hw4-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hwTetris" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/hwTetris.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hw2-3" />
+        <item itemvalue="Python.hw2-2" />
+        <item itemvalue="Python.hw4-2" />
+        <item itemvalue="Python.hwTetris" />
+        <item itemvalue="Python.hw4-1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdc89981-45ba-44b4-80ce-493f82fedb5f" name="Default Changelist" comment="" />
+      <created>1562878806887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562878806887</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.21366164" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17715232" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3692053" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3294702" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.12417219" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="273" height="535" id="Documentation" order="3" side_tool="true" weight="0.32983023" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.14694202" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26490065" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39900663" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3294702" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.28807947" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="273" height="535" id="Documentation" order="3" side_tool="true" weight="0.32983023" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="row" />
+        <watch expression="col" />
+        <watch expression="self.outputGates" />
+        <watch expression="self" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../.PyCharmCE2019.1/system/python_stubs/142104079/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/../Nutstore/.nutstore_ZmZ5dWFuZGFAb3V0bG9vay5jb20=/Nutstore/CMU Application/15112/week 1/hw1-3.py" />
+    <entry file="file://$PROJECT_DIR$/../Nutstore/.nutstore_ZmZ5dWFuZGFAb3V0bG9vay5jb20=/Nutstore/CMU Application/15112/week 1/hw1-2.py" />
+    <entry file="file://$PROJECT_DIR$/../week 1/hw1-3.py" />
+    <entry file="file://$USER_HOME$/Desktop/src/hw2-1.py" />
+    <entry file="file://$USER_HOME$/Downloads/shaoxuan@andrew.cmu.edu_2_hw23tetris_hw23-tetris_handin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-950">
+          <caret line="171" column="19" lean-forward="true" selection-start-line="171" selection-start-column="19" selection-end-line="171" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="328" lean-forward="true" selection-start-line="328" selection-end-line="328" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/BackTracking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/draftIII.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+          <folding>
+            <element signature="e#24#885#0" />
+            <element signature="e#1907#2737#0" />
+            <element signature="e#2772#2996#0" />
+            <element signature="e#3032#3736#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/hw4-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="388" column="21" lean-forward="true" selection-start-line="388" selection-start-column="21" selection-end-line="388" selection-end-column="21" />
+          <folding>
+            <element signature="e#244#707#0" />
+            <element signature="e#734#776#0" />
+            <element signature="e#806#873#0" />
+            <element signature="e#912#1006#0" />
+            <element signature="e#1028#1165#0" />
+            <element signature="e#4459#4675#0" />
+            <element signature="e#4701#4705#0" />
+            <element signature="e#4728#4944#0" />
+            <element signature="e#4756#4944#0" />
+            <element signature="e#4966#5182#0" />
+            <element signature="e#5205#5421#0" />
+            <element signature="e#5842#6370#0" />
+            <element signature="e#6412#8126#0" />
+            <element signature="e#8165#8671#0" />
+            <element signature="e#8710#9467#0" />
+            <element signature="e#9505#10242#0" />
+            <element signature="e#10274#11056#0" />
+            <element signature="e#11083#11340#0" />
+            <element signature="e#12284#13340#0" />
+            <element signature="e#13383#14365#0" />
+            <element signature="e#14405#14753#0" />
+            <element signature="e#14790#15286#0" />
+            <element signature="e#15320#15716#0" />
+            <element signature="e#15857#16578#0" />
+            <element signature="e#16720#17749#0" />
+            <element signature="e#17784#18867#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/playground.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          <folding>
+            <element signature="e#38#293#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="2261" selection-start-line="2261" selection-end-line="2261" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/shaoxuan@andrew.cmu.edu_1_hw43_hw43_handin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#236#616#0" />
+            <element signature="e#723#787#0" />
+            <element signature="e#826#912#0" />
+            <element signature="e#934#1067#0" />
+            <element signature="e#1096#1863#0" />
+            <element signature="e#1888#2418#0" />
+            <element signature="e#2444#2787#0" />
+            <element signature="e#2811#3287#0" />
+            <element signature="e#3310#4207#0" />
+            <element signature="e#4230#5132#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/142104079/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62550">
+          <caret line="4170" column="8" selection-start-line="4170" selection-start-column="8" selection-end-line="4170" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/draftV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Animation template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testerPython.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="49" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hw5-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1815">
+          <caret line="121" column="9" selection-start-line="121" selection-start-column="9" selection-end-line="121" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hw2-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3825">
+          <caret line="257" column="25" selection-start-line="257" selection-start-column="25" selection-end-line="257" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hw2-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="49" />
+          <folding>
+            <element signature="e#229#278#0" />
+            <element signature="e#411#852#0" />
+            <element signature="e#556#852#0" />
+            <element signature="e#589#704#0" />
+            <element signature="e#731#852#0" />
+            <element signature="e#917#1116#0" />
+            <element signature="e#1163#1194#0" />
+            <element signature="e#1235#1501#0" />
+            <element signature="e#1327#1361#0" />
+            <element signature="e#1543#2329#0" />
+            <element signature="e#1612#1822#0" />
+            <element signature="e#1913#2230#0" />
+            <element signature="e#2268#2311#0" />
+            <element signature="e#2366#2903#0" />
+            <element signature="e#2783#2874#0" />
+            <element signature="e#2981#3345#0" />
+            <element signature="e#3401#4492#0" />
+            <element signature="e#3572#4492#0" />
+            <element signature="e#3608#4492#0" />
+            <element signature="e#3908#4492#0" />
+            <element signature="e#3952#4492#0" />
+            <element signature="e#4493#4563#0" />
+            <element signature="e#4685#5089#0" />
+            <element signature="e#4950#5072#0" />
+            <element signature="e#5124#5211#0" />
+            <element signature="e#5246#5361#0" />
+            <element signature="e#5400#5951#0" />
+            <element signature="e#5817#5908#0" />
+            <element signature="e#5984#6197#0" />
+            <element signature="e#6020#6180#0" />
+            <element signature="e#6228#6508#0" />
+            <element signature="e#6302#6401#0" />
+            <element signature="e#6560#6569#0" />
+            <element signature="e#6571#6641#0" />
+            <element signature="e#6860#6904#0" />
+            <element signature="e#6978#8053#0" />
+            <element signature="e#7287#7995#0" />
+            <element signature="e#7838#7908#0" />
+            <element signature="e#8055#8120#0" />
+            <element signature="e#8548#8851#0" />
+            <element signature="e#8882#10540#0" />
+            <element signature="e#8952#9039#0" />
+            <element signature="e#9078#9377#0" />
+            <element signature="e#9414#9753#0" />
+            <element signature="e#9791#10130#0" />
+            <element signature="e#10168#10507#0" />
+            <element signature="e#10569#11228#0" />
+            <element signature="e#10636#10734#0" />
+            <element signature="e#10770#10868#0" />
+            <element signature="e#10904#10993#0" />
+            <element signature="e#11030#11197#0" />
+            <element signature="e#11345#11523#0" />
+            <element signature="e#11549#11858#0" />
+            <element signature="e#11881#12218#0" />
+            <element signature="e#11888#12218#0" />
+            <element signature="e#12241#12335#0" />
+            <element signature="e#12248#12335#0" />
+            <element signature="e#12380#12563#0" />
+            <element signature="e#12590#12839#0" />
+            <element signature="e#12860#12919#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hw1-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4170">
+          <caret line="278" column="17" selection-start-line="278" selection-start-column="17" selection-end-line="278" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hwTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3255">
+          <caret line="217" column="43" selection-start-line="217" selection-start-column="43" selection-end-line="217" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hw4-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8835">
+          <caret line="667" column="22" selection-start-line="667" selection-start-column="22" selection-end-line="667" selection-end-column="22" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#18427#21549#0" />
+            <element signature="e#18461#18536#0" />
+            <element signature="e#18578#18668#0" />
+            <element signature="e#18586#18667#0" />
+            <element signature="e#18710#18916#0" />
+            <element signature="e#18738#18915#0" />
+            <element signature="e#18962#20605#0" />
+            <element signature="e#19012#19297#0" />
+            <element signature="e#19337#19620#0" />
+            <element signature="e#19661#19946#0" />
+            <element signature="e#19989#20274#0" />
+            <element signature="e#20318#20605#0" />
+            <element signature="e#20643#20819#0" />
+            <element signature="e#20674#20819#0" />
+            <element signature="e#20864#21549#0" />
+            <element signature="e#20905#21549#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hw4-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8325">
+          <caret line="555" column="13" lean-forward="true" selection-start-line="555" selection-start-column="13" selection-end-line="555" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hw1-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2175">
+          <caret line="145" column="21" selection-start-line="145" selection-start-column="21" selection-end-line="145" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/isnthKobieNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hw2-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="e#401#422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hw4-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1289">
+          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
